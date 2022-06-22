@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a designer - and this might means a ton of things.
+I am a designer.
 
 <!--
 **carolinaraulino/carolinaraulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
