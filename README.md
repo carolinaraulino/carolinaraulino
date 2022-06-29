@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a product designer currently working at Meld Studio - your future favorite livestream software.
+Currently working at Meld Studio - your future favorite livestream software.
 
 <!--
 **carolinaraulino/carolinaraulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
