@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Carol, part of the team behind Meld Studio - the live stream software that will change the game. Check us out at **[meldstudio.co](https://www.meldstudio.co)** and join the revolution! ✨
+I’m driven by ideas and by the joy of bringing them to life. ✨
 
 <!--
 **carolinaraulino/carolinaraulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
